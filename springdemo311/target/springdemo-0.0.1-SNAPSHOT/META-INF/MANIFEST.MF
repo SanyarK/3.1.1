@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: САНЬЯР
+Build-Jdk: Oracle OpenJDK version 18.0.1
+Implementation-Title: springdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.prosily
+Main-Class: ${start-class}
+
